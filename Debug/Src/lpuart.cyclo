@@ -1,0 +1,6 @@
+../Src/lpuart.c:16:6:LPUART1_GPIO_Init	1
+../Src/lpuart.c:41:6:LPUART1_Config	3
+../Src/lpuart.c:71:6:LPUART1_Init	1
+../Src/lpuart.c:77:6:LPUART1_SendChar	2
+../Src/lpuart.c:87:6:LPUART1_SendString	2
+../Src/lpuart.c:96:9:LPUART1_GetChar	2

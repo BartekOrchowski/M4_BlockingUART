@@ -54,8 +54,8 @@ int main(void)
 		if(!LPUART1_GetChar(&ReceivedChar))
 		{
 			sprintf(ToSend, "Char Received: %c\n\r", ReceivedChar);
-			LPUART1_SendString(ToSend);
-		}
+ 		LPUART1_SendString(ToSend);
+/	}
 
 	}
 }

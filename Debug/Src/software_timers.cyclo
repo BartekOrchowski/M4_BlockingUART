@@ -1,0 +1,4 @@
+../Src/software_timers.c:16:6:SoftTimerEvent	4
+../Src/software_timers.c:31:6:SoftTimerAction	1
+../Src/software_timers.c:36:6:SoftTimerStart	2
+../Src/software_timers.c:51:6:SoftTimerStop	1

@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:2017:26:SysTick_Config	2
+../Src/sys_clocks.c:27:6:SystemClockHSE24	4
+../Src/sys_clocks.c:44:6:SystemClockPLL48	5
+../Src/sys_clocks.c:86:6:SystemClockPLL100	6
+../Src/sys_clocks.c:132:6:SystemClockPLL170	6
+../Src/sys_clocks.c:184:6:SystemClockSetup	1
+../Src/sys_clocks.c:195:6:SysTick_Handler	1
+../Src/sys_clocks.c:200:10:GetSystemTick	1
+../Src/sys_clocks.c:206:6:Delay	2

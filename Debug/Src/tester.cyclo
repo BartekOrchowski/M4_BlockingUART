@@ -1,0 +1,4 @@
+../Src/tester.c:16:6:TEST1_Init	1
+../Src/tester.c:23:44:TEST1_On	1
+../Src/tester.c:28:44:TEST1_Off	1
+../Src/tester.c:33:44:TEST1_Toggle	1

@@ -1,0 +1,4 @@
+../Src/led.c:20:6:LED_LD2_Init	4	static
+../Src/led.c:34:44:LED_LD2_On	4	static
+../Src/led.c:40:44:LED_LD2_Off	4	static
+../Src/led.c:46:44:LED_LD2_Toggle	4	static
